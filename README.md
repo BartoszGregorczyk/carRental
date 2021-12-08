@@ -16,10 +16,9 @@ In the application it is possible to:
 - car rental by the client,
 - return of the rented car.
 
-Database used in application:
-H2 in-memory database
+*Database used in application: H2 in-memory database*
 
-The project was created in the IntelliJ environment.
+*The project was created in the IntelliJ environment.*
 	
 ## Technologies
 Project is created with:
@@ -31,7 +30,7 @@ Project is created with:
 
 ## Setup
 
-**Database structure**
+**Database structure:**
 The created database is available at: http://localhost:8080/h2-console
 It is presented below:
 
@@ -39,8 +38,10 @@ It is presented below:
 
 The database was filled with six exemplary vehicle offers.
 
-**User authorization**
-The Swagger framework was used to design APi, through its use we can log the user in and authorize it:
+**User authorization:**
+The Swagger framework was used to design APi, through its use we can log the user in and authorize it.
+
+The swagger UI is available at: http://localhost:8080/swagger-ui.html
 
 **Login:**
 
