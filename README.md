@@ -39,7 +39,7 @@ It is presented below:
 
 The database was filled with six exemplary vehicle offers.
 
-**User authorization**
+**User authorization:**
 The Swagger framework was used to design APi, through its use we can log the user in and authorize it.
 
 The swagger UI is available at: http://localhost:8080/swagger-ui.html
