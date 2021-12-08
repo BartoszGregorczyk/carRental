@@ -16,9 +16,9 @@ In the application it is possible to:
 - car rental by the client,
 - return of the rented car.
 
-*Database used in application: H2 in-memory database
+*Database used in application: H2 in-memory database*
 
-*The project was created in the IntelliJ environment.
+*The project was created in the IntelliJ environment.*
 	
 ## Technologies
 Project is created with:
