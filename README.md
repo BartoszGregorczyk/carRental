@@ -33,7 +33,7 @@ Project is created with:
 **Database structure**
 The created database is available at: http://localhost:8080/h2-console
 It is presented below:
-![database_structure](./img/database.png=10x)
+![database_structure](./img/database.png)
 The database was filled with six exemplary vehicle offers.
 
 **User authorization**
