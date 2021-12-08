@@ -58,9 +58,12 @@ After correctly entering the data and logging in, we should receive a token (pic
 
 Only authorized users can use endpoints, so the generated token should be pasted into the authorization window:
 
-![token](./img/authorization.png)
+![authorization](./img/authorization.png)
+
+**Endpoints:**
 
 
+![endpoints](./img/endpoints.png)
 
 
 
