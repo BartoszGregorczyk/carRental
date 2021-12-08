@@ -67,5 +67,7 @@ Only authorized users can use endpoints, so the generated token should be pasted
 ![endpoints](./img/endpoints.png)
 
 
+** An example request for a car with id = 2 **
 
+![example_request](./img/example.png)
 
