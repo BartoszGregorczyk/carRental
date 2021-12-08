@@ -27,6 +27,7 @@ Project is created with:
 * Spring Boot 2.6.1
 * swagger 2.9.2
 * H2 database
+* JWT authentication
 
 ## Setup
 
@@ -54,4 +55,13 @@ After correctly entering the data and logging in, we should receive a token (pic
 ![token](./img/token.png)
 
 **Authorization:**
+
+Only authorized users can use endpoints, so the generated token should be pasted into the authorization window:
+
+![token](./img/authorization.png)
+
+
+
+
+
 
