@@ -31,7 +31,7 @@ Project is created with:
 
 ## Setup
 
-**Database structure**
+**Database structure:**
 The created database is available at: http://localhost:8080/h2-console
 It is presented below:
 
