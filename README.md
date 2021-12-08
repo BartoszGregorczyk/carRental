@@ -30,3 +30,23 @@ Project is created with:
 
 ## Setup
 
+**Database structure**
+The created database is available at: http://localhost:8080/h2-console
+It is presented below:
+![database_structure](./img/database.png)
+The database was filled with six exemplary vehicle offers.
+
+**User authorization**
+The Swagger framework was used to design APi, through its use we can log the user in and authorize it:
+
+**Login**
+User login can be done with "login-controller". The created, sample user has the following login data:
+-username: admin
+-password: admin
+![login](./img/login.png)
+
+After correctly entering the data and logging in, we should receive a token (picture below):
+![token](./img/token.png)
+
+**Authorization**
+
