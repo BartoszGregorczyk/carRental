@@ -44,9 +44,8 @@ The Swagger framework was used to design APi, through its use we can log the use
 **Login:**
 
 User login can be done with "login-controller". The created, sample user has the following login data:
-
--username: admin
--password: admin
+* username: admin
+* password: admin
 
 ![login](./img/login.png)
 
