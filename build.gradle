@@ -33,6 +33,7 @@ dependencies {
 	implementation 'io.springfox:springfox-swagger-ui:2.9.2'
 	//https://mvnrepository.com/artifact/junit/junit
 	testImplementation group: 'junit', name: 'junit', version: '4.13.2'
+	testImplementation 'org.springframework.security:spring-security-test'
 	runtimeOnly 'com.h2database:h2'
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'
